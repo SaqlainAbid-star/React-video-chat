@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SaqlainAbid-star/React-video-chat/static/css/main.754d5b50.chunk.css",
+    "main.js": "/SaqlainAbid-star/React-video-chat/static/js/main.d78add66.chunk.js",
+    "main.js.map": "/SaqlainAbid-star/React-video-chat/static/js/main.d78add66.chunk.js.map",
+    "runtime-main.js": "/SaqlainAbid-star/React-video-chat/static/js/runtime-main.1f4b367b.js",
+    "runtime-main.js.map": "/SaqlainAbid-star/React-video-chat/static/js/runtime-main.1f4b367b.js.map",
+    "static/js/2.0eaba219.chunk.js": "/SaqlainAbid-star/React-video-chat/static/js/2.0eaba219.chunk.js",
+    "static/js/2.0eaba219.chunk.js.map": "/SaqlainAbid-star/React-video-chat/static/js/2.0eaba219.chunk.js.map",
+    "index.html": "/SaqlainAbid-star/React-video-chat/index.html",
+    "static/css/main.754d5b50.chunk.css.map": "/SaqlainAbid-star/React-video-chat/static/css/main.754d5b50.chunk.css.map",
+    "static/js/2.0eaba219.chunk.js.LICENSE.txt": "/SaqlainAbid-star/React-video-chat/static/js/2.0eaba219.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f4b367b.js",
+    "static/js/2.0eaba219.chunk.js",
+    "static/css/main.754d5b50.chunk.css",
+    "static/js/main.d78add66.chunk.js"
+  ]
+}

@@ -1,6 +1,23 @@
-const app = require("express")();
+const express = require("express")
+const app = express();
 const server = require("http").createServer(app);
 const cors = require("cors");
+
+
+app.use(express.json());
+
+app.use(
+  cors({
+    origin: "*",
+    credentials: true,
+  })
+); // use cors middleware for all routes
+
+app.use(
+  express.urlencoded({
+    extended: true,
+  })
+);
 
 const io = require("socket.io")(server, {
 	cors: {
@@ -9,7 +26,6 @@ const io = require("socket.io")(server, {
 	}
 });
 
-app.use(cors());
 
 const PORT = process.env.PORT || 5000;
 
